@@ -7,14 +7,6 @@ import java.util.List;
 public class MaxContiguousSubArray {
     public static void main(String[] args) {
         int[] arr = {0,1,0,1,1};
-
-        [1,0,1,0,0,0,1]
-        1 -1 1 -1 -1 -1 1
-            1 0 1 0 -1 -2 -1
-
-
-        -1,1,-1,1,1
-                -1 0 -1 0 1
         System.out.println(findMaxLength(arr));
     }
 
