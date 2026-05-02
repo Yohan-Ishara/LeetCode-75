@@ -3,7 +3,7 @@ package arrayandstring;
 public class StringCompression {
     public static void main(String[] args) {
         char[] chars = {'a'};
-        char[] arr = {'a','b','b','b','b','b','b','b','b','b','b','b','b'};
+        char[] arr = {'a','b','b','b','b','b','b','b','b','b','b','b','b','c','c','c','c'};
         System.out.println(compress(arr));
     }
 
